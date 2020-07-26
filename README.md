@@ -3,5 +3,5 @@ This coursework was presented to team "Learning to Code" of IEEE Democritus Univ
 The coursework includes:
 - Introduction: Operators, Input & Output, if statement
 - 2nd Presentation: Functions
-- 3rd Presentation: Loops, Lists, Tuples
+- 3rd Presentation: Loops, Lists, Tuples  
 The rest presentations are to be pushed soon...
