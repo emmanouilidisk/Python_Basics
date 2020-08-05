@@ -3,6 +3,6 @@ This coursework was presented to team "Learning to Code" of IEEE Democritus Univ
 The coursework includes:
 - [1st Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/1.%20Introduction.pdf) Operators, Input & Output, if statement
 - [2nd Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/2nd_presentation.pdf) Functions
-- 3rd Presentation:[Loops, Lists, Tuples](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/3rd%20presentation.pdf)   
+- [3rd Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/3rd%20presentation.pdf) Loops, Lists, Tuples 
 
 The rest presentations are to be pushed soon...
