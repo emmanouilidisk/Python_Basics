@@ -43,4 +43,5 @@ print("Predicted target name: {}".format(
 ## Evaluating the model
 y_pred = knn.predict(X_test)
 print("Test set predictions:\n {}".format(y_pred))
+#prediction score
 print("Test set score: {:.2f}".format(knn.score(X_test, y_test)))
