@@ -1,8 +1,13 @@
 ### Python Basics
-This coursework was presented to team "Learning to Code" of IEEE Democritus University Of Thrace Student Branch in order to provide to the members of the team an insightful and interesting approach to algorithmic thinking and an easy way of learning the basics of Python.
-The coursework includes:
-- [1st Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/1st_presentation.pdf) Operators, Input & Output, if statement
-- [2nd Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/2nd_presentation.pdf) Functions
-- [3rd Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/3rd_presentation.pdf) Loops, Lists, Tuples 
+This coursework was presented to team "Learning to Code" of IEEE Democritus University Of Thrace Student Branch in order to provide an easy way of learning the basic commands of Python.  
 
-The rest presentations are to be pushed soon...
+The coursework includes:
+- [1st Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/presentation_1.pdf) Operators, Input & Output, if statement
+- [2nd Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/presentation_2.pdf) Functions
+- [3rd Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/presentation_3.pdf) Loops, Lists, Tuples 
+- [4th Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/presentation_4.pdf) Dictionaries, Classes
+- [5th Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/presentation_5.pdf) Inheritance, Operator Overloading
+- [6th Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/presentation_6.pdf) Files, OS Methods, Directories, Modules
+- [7th Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/presentation_7.pdf) Python Applications (Intro to Machine Learning, Face & Eye Detection)
+
+Each presentation is accompanied by a set of exercises that can be found in the according folder.
