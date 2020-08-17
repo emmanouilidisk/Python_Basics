@@ -10,4 +10,4 @@ The coursework includes:
 - [6th Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/presentation_6.pdf) Files, OS Methods, Directories, Modules
 - [7th Presentation:](https://github.com/emmanouilidisk/Python_Basics/blob/master/Presentations/presentation_7.pdf) Python Applications (Intro to Machine Learning, Face & Eye Detection)
 
-Each presentation is accompanied by a set of exercises that can be found in the according folder.
+Each presentation is accompanied by a set of exercises that can be found [here](https://github.com/emmanouilidisk/Python_Basics/tree/master/Exercises).
