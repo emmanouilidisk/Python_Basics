@@ -1,6 +1,7 @@
 ### Python Basics
-![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)  
-
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png">
+</p>  
 This coursework was presented to team "Learning to Code" of IEEE Democritus University Of Thrace Student Branch in order to provide an easy way of learning the basic commands of Python.  
 
 The coursework includes:
