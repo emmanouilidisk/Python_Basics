@@ -1,4 +1,6 @@
 ### Python Basics
+![Python](https://ictslab.com/wp-content/uploads/2019/03/d1326ca6cca8038cd115a061b4e2b3bc-840x430.png)  
+
 This coursework was presented to team "Learning to Code" of IEEE Democritus University Of Thrace Student Branch in order to provide an easy way of learning the basic commands of Python.  
 
 The coursework includes:
